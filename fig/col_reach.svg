@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1000" font-family="IBM Plex Mono, monospace">
+<rect width="1500" height="1000" fill="#0B0F16"/>
+<text x="60" y="54" font-size="25" fill="#E6E4DE" font-weight="600">The reach ladder — the robots are the lift</text>
+<text x="60" y="78" font-size="11" fill="#A0A7B3">Column A, 2.5 m, 228 blocks · no lifting mechanism: the pair reconfigures · 3.38 h with the retired lift → 2.83 h tandem</text>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="context-stroke"/></marker></defs>
+<line x1="70" y1="880.0" x2="1430" y2="880.0" stroke="#141a24" stroke-width="1"/>
+<text x="62" y="883.0" font-size="9" fill="#6E7582" text-anchor="end">0 m</text>
+<line x1="70" y1="744.0" x2="1430" y2="744.0" stroke="#141a24" stroke-width="1"/>
+<text x="62" y="747.0" font-size="9" fill="#6E7582" text-anchor="end">0.5 m</text>
+<line x1="70" y1="608.0" x2="1430" y2="608.0" stroke="#141a24" stroke-width="1"/>
+<text x="62" y="611.0" font-size="9" fill="#6E7582" text-anchor="end">1 m</text>
+<line x1="70" y1="472.0" x2="1430" y2="472.0" stroke="#141a24" stroke-width="1"/>
+<text x="62" y="475.0" font-size="9" fill="#6E7582" text-anchor="end">1.5 m</text>
+<line x1="70" y1="336.0" x2="1430" y2="336.0" stroke="#141a24" stroke-width="1"/>
+<text x="62" y="339.0" font-size="9" fill="#6E7582" text-anchor="end">2 m</text>
+<line x1="70" y1="200.0" x2="1430" y2="200.0" stroke="#141a24" stroke-width="1"/>
+<text x="62" y="203.0" font-size="9" fill="#6E7582" text-anchor="end">2.5 m</text>
+<line x1="70" y1="880.0" x2="1430" y2="880.0" stroke="#2a3140" stroke-width="1.6"/>
+<rect x="70" y="553.6" width="1360" height="326.4" fill="#E88A6F" opacity="0.045"/>
+<line x1="70" y1="553.6" x2="1430" y2="553.6" stroke="#E88A6F" stroke-width="1" stroke-dasharray="3 5" opacity="0.6"/>
+<text x="1424" y="569.6" font-size="10" fill="#E88A6F" text-anchor="end" style="paint-order:stroke;stroke:#0B0F16;stroke-width:4px">GROUND BAND · to 1.2 m · both Dragons place side by side</text>
+<rect x="70" y="431.2" width="1360" height="122.4" fill="#d0c47a" opacity="0.045"/>
+<line x1="70" y1="431.2" x2="1430" y2="431.2" stroke="#d0c47a" stroke-width="1" stroke-dasharray="3 5" opacity="0.6"/>
+<text x="1424" y="447.2" font-size="10" fill="#d0c47a" text-anchor="end" style="paint-order:stroke;stroke:#0B0F16;stroke-width:4px">MIDDLE BAND · to ≈ 1.65 m · tandem: A stands on B</text>
+<rect x="70" y="200.0" width="1360" height="231.2" fill="#7C9CF2" opacity="0.045"/>
+<line x1="70" y1="200.0" x2="1430" y2="200.0" stroke="#7C9CF2" stroke-width="1" stroke-dasharray="3 5" opacity="0.6"/>
+<text x="1424" y="216.0" font-size="10" fill="#7C9CF2" text-anchor="end" style="paint-order:stroke;stroke:#0B0F16;stroke-width:4px">TOP BAND · to 2.5 m · tandem + B’s limb as A’s arm extension (reach ≈ 2.65 m)</text>
+<line x1="70" y1="159.2" x2="1430" y2="159.2" stroke="#7C9CF2" stroke-width="1" stroke-dasharray="1 6" opacity="0.5"/>
+<text x="1424" y="153.2" font-size="9" fill="#7C9CF2" text-anchor="end" opacity="0.8">tandem + limb reach ≈ 2.65 m (estimate)</text>
+<rect x="322.1" y="844.2" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="371.0" y="844.2" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="420.0" y="844.2" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="469.0" y="844.2" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="322.1" y="808.4" width="24.5" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="346.6" y="808.4" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="395.5" y="808.4" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="444.5" y="808.4" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="493.4" y="808.4" width="24.5" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="322.1" y="772.6" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="371.0" y="772.6" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="420.0" y="772.6" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="469.0" y="772.6" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="322.1" y="736.8" width="24.5" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="346.6" y="736.8" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="395.5" y="736.8" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="444.5" y="736.8" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="493.4" y="736.8" width="24.5" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="322.1" y="701.1" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="371.0" y="701.1" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="420.0" y="701.1" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="469.0" y="701.1" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="322.1" y="665.3" width="24.5" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="346.6" y="665.3" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="395.5" y="665.3" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="444.5" y="665.3" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="493.4" y="665.3" width="24.5" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="322.1" y="629.5" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="371.0" y="629.5" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="420.0" y="629.5" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="469.0" y="629.5" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="322.1" y="593.7" width="24.5" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="346.6" y="593.7" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="395.5" y="593.7" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="444.5" y="593.7" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="493.4" y="593.7" width="24.5" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="322.1" y="557.9" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="371.0" y="557.9" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="420.0" y="557.9" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="469.0" y="557.9" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="322.1" y="522.1" width="24.5" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="346.6" y="522.1" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="395.5" y="522.1" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="444.5" y="522.1" width="49.0" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="493.4" y="522.1" width="24.5" height="33.8" fill="#E88A6F" opacity="0.30" stroke="#E88A6F" stroke-width="1.3"/>
+<rect x="322.1" y="486.3" width="49.0" height="33.8" fill="#d0c47a" opacity="0.30" stroke="#d0c47a" stroke-width="1.3"/>
+<rect x="371.0" y="486.3" width="49.0" height="33.8" fill="#d0c47a" opacity="0.30" stroke="#d0c47a" stroke-width="1.3"/>
+<rect x="420.0" y="486.3" width="49.0" height="33.8" fill="#d0c47a" opacity="0.30" stroke="#d0c47a" stroke-width="1.3"/>
+<rect x="469.0" y="486.3" width="49.0" height="33.8" fill="#d0c47a" opacity="0.30" stroke="#d0c47a" stroke-width="1.3"/>
+<rect x="322.1" y="450.5" width="24.5" height="33.8" fill="#d0c47a" opacity="0.30" stroke="#d0c47a" stroke-width="1.3"/>
+<rect x="346.6" y="450.5" width="49.0" height="33.8" fill="#d0c47a" opacity="0.30" stroke="#d0c47a" stroke-width="1.3"/>
+<rect x="395.5" y="450.5" width="49.0" height="33.8" fill="#d0c47a" opacity="0.30" stroke="#d0c47a" stroke-width="1.3"/>
+<rect x="444.5" y="450.5" width="49.0" height="33.8" fill="#d0c47a" opacity="0.30" stroke="#d0c47a" stroke-width="1.3"/>
+<rect x="493.4" y="450.5" width="24.5" height="33.8" fill="#d0c47a" opacity="0.30" stroke="#d0c47a" stroke-width="1.3"/>
+<rect x="322.1" y="414.7" width="49.0" height="33.8" fill="#d0c47a" opacity="0.30" stroke="#d0c47a" stroke-width="1.3"/>
+<rect x="371.0" y="414.7" width="49.0" height="33.8" fill="#d0c47a" opacity="0.30" stroke="#d0c47a" stroke-width="1.3"/>
+<rect x="420.0" y="414.7" width="49.0" height="33.8" fill="#d0c47a" opacity="0.30" stroke="#d0c47a" stroke-width="1.3"/>
+<rect x="469.0" y="414.7" width="49.0" height="33.8" fill="#d0c47a" opacity="0.30" stroke="#d0c47a" stroke-width="1.3"/>
+<rect x="322.1" y="378.9" width="24.5" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="346.6" y="378.9" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="395.5" y="378.9" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="444.5" y="378.9" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="493.4" y="378.9" width="24.5" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="322.1" y="343.2" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="371.0" y="343.2" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="420.0" y="343.2" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="469.0" y="343.2" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="322.1" y="307.4" width="24.5" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="346.6" y="307.4" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="395.5" y="307.4" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="444.5" y="307.4" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="493.4" y="307.4" width="24.5" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="322.1" y="271.6" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="371.0" y="271.6" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="420.0" y="271.6" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="469.0" y="271.6" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="322.1" y="235.8" width="24.5" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="346.6" y="235.8" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="395.5" y="235.8" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="444.5" y="235.8" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="493.4" y="235.8" width="24.5" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="322.1" y="200.0" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="371.0" y="200.0" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="420.0" y="200.0" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<rect x="469.0" y="200.0" width="49.0" height="33.8" fill="#7C9CF2" opacity="0.30" stroke="#7C9CF2" stroke-width="1.3"/>
+<text x="420" y="906.0" font-size="12" fill="#E6E4DE" text-anchor="middle" font-weight="600">Column A · 2.5 m · 228 blocks</text>
+<text x="420" y="924.0" font-size="10" fill="#A0A7B3" text-anchor="middle">courses coloured by the configuration that places them</text>
+<circle cx="674" cy="866" r="14" fill="none" stroke="#E88A6F" stroke-width="2"/>
+<circle cx="726" cy="866" r="14" fill="none" stroke="#E88A6F" stroke-width="2"/>
+<rect x="660" y="834" width="80" height="22" rx="6" fill="none" stroke="#E88A6F" stroke-width="2"/>
+<line x1="700" y1="834" x2="740" y2="764" stroke="#E88A6F" stroke-width="2.2" stroke-linecap="round"/>
+<circle cx="740" cy="764" r="3.4" fill="#E88A6F"/>
+<line x1="740" y1="764" x2="766" y2="562" stroke="#E88A6F" stroke-width="2.2" stroke-linecap="round"/>
+<circle cx="766" cy="562" r="3.4" fill="#E88A6F"/>
+<text x="700" y="906.0" font-size="11" fill="#E88A6F" text-anchor="middle" font-weight="600">1 · alone → 1.2 m</text>
+<text x="700" y="922.0" font-size="9" fill="#A0A7B3" text-anchor="middle">both place, side by side</text>
+<circle cx="924" cy="866" r="14" fill="none" stroke="#7C9CF2" stroke-width="2"/>
+<circle cx="976" cy="866" r="14" fill="none" stroke="#7C9CF2" stroke-width="2"/>
+<rect x="910" y="834" width="80" height="22" rx="6" fill="none" stroke="#7C9CF2" stroke-width="2"/>
+<circle cx="924" cy="820" r="14" fill="none" stroke="#d0c47a" stroke-width="2"/>
+<circle cx="976" cy="820" r="14" fill="none" stroke="#d0c47a" stroke-width="2"/>
+<rect x="910" y="788" width="80" height="22" rx="6" fill="none" stroke="#d0c47a" stroke-width="2"/>
+<line x1="950" y1="788" x2="992" y2="714" stroke="#d0c47a" stroke-width="2.2" stroke-linecap="round"/>
+<circle cx="992" cy="714" r="3.4" fill="#d0c47a"/>
+<line x1="992" y1="714" x2="1020" y2="439" stroke="#d0c47a" stroke-width="2.2" stroke-linecap="round"/>
+<circle cx="1020" cy="439" r="3.4" fill="#d0c47a"/>
+<text x="950" y="906.0" font-size="11" fill="#d0c47a" text-anchor="middle" font-weight="600">2 · tandem → ≈ 1.65 m</text>
+<text x="950" y="922.0" font-size="9" fill="#A0A7B3" text-anchor="middle">A docks on B · B is the base and feeds</text>
+<circle cx="1174" cy="866" r="14" fill="none" stroke="#7C9CF2" stroke-width="2"/>
+<circle cx="1226" cy="866" r="14" fill="none" stroke="#7C9CF2" stroke-width="2"/>
+<rect x="1160" y="834" width="80" height="22" rx="6" fill="none" stroke="#7C9CF2" stroke-width="2"/>
+<circle cx="1174" cy="820" r="14" fill="none" stroke="#7C9CF2" stroke-width="2"/>
+<circle cx="1226" cy="820" r="14" fill="none" stroke="#7C9CF2" stroke-width="2"/>
+<rect x="1160" y="788" width="80" height="22" rx="6" fill="none" stroke="#7C9CF2" stroke-width="2"/>
+<line x1="1200" y1="788" x2="1240" y2="708" stroke="#7C9CF2" stroke-width="2.2" stroke-linecap="round"/>
+<circle cx="1240" cy="708" r="3.4" fill="#7C9CF2"/>
+<line x1="1240" y1="708" x2="1258" y2="618" stroke="#7C9CF2" stroke-width="2.2" stroke-linecap="round"/>
+<circle cx="1258" cy="618" r="3.4" fill="#7C9CF2"/>
+<line x1="1258" y1="618" x2="1276" y2="206" stroke="#E88A6F" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="1276" cy="206" r="3.4" fill="#E88A6F"/>
+<text x="1240" y="258" font-size="9" fill="#E88A6F" text-anchor="end" style="paint-order:stroke;stroke:#0B0F16;stroke-width:4px">B’s donated limb →</text>
+<text x="1200" y="906.0" font-size="11" fill="#7C9CF2" text-anchor="middle" font-weight="600">3 · tandem + limb → ≈ 2.65 m</text>
+<text x="1200" y="922.0" font-size="9" fill="#A0A7B3" text-anchor="middle">8-DOF arm from two limb modules · covers the column</text>
+<text x="70" y="140" font-size="13" fill="#E6E4DE" font-weight="600">Times (planner)</text>
+<text x="70" y="166" font-size="12" fill="#E6E4DE" font-weight="600">3.38 h</text>
+<text x="140" y="166" font-size="9.5" fill="#A0A7B3">lift deck · R05, retired</text>
+<text x="70" y="192" font-size="12" fill="#E88A6F" font-weight="600">2.83 h</text>
+<text x="140" y="192" font-size="9.5" fill="#A0A7B3">tandem, no lift</text>
+<text x="70" y="218" font-size="12" fill="#E6E4DE" font-weight="600">2.39 h</text>
+<text x="140" y="218" font-size="9.5" fill="#A0A7B3">long arm, if it reaches 2.6 m</text>
+<text x="70" y="252" font-size="9.5" fill="#A0A7B3">Climber + feeder: no height limit,</text>
+<text x="70" y="266" font-size="9.5" fill="#A0A7B3">needs grip features · for taller columns</text>
+<text x="60" y="966" font-size="9" fill="#6E7582">SCHEMATIC · heights estimated from body and limb dimensions, to be measured · Dragon ×4 shown horizontally and the 8-DOF limb shown; docking FOR HEIGHT is the demonstration this chapter waits on · tandem stability at 2.5 m queued in Isaac</text>
+</svg>
